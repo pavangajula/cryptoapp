@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
-import Coins from "./components/Coins";
+import Coins from "./components/Coins/Coins";
 import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
