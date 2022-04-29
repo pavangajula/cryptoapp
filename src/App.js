@@ -5,6 +5,7 @@ import Coins from "./components/Coins/Coins";
 import Coin from "./routes/Coin";
 import Navbar from "./components/Navbar/Navbar";
 import { Routes, Route } from "react-router-dom";
+import "./index.css";
 
 const App = () => {
   const url = [
